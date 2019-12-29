@@ -9,5 +9,3 @@ trained to identify digits in typed font (primarily arial) was developed.  The o
 segmenting the image into 81 squares, performing basic manipulations to get rid of borders and to increase
 constrast of the digit and the background, using the aforementioned neural network to make a prediction as to
 what the digit is, and then storing it in a list which is later formatted into a 9 by 9 matrix.  
-
-something
